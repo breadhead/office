@@ -1,3 +1,3 @@
 # office
 
-+ [Code Style](/code-style)
++ [Правила работы с исходным кодом](/code)
