@@ -1,17 +1,17 @@
 # PHP Code Style
 
-We use [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) with some custom rules.
+Мы используем [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) с набором правил от Symfony и некоторыми дополнительными.
 
-## Insatll
+## Установка
 
 + `composer require --dev symplify/easy-coding-standard`
-+ add `.ecs_cache` to `.gitignore`
-+ create `easy-coding-standard.yml` with [config](#config)
++ добавьте `.ecs_cache` в `.gitignore`
++ создайте `easy-coding-standard.yml` с [конфигурацией](#config)
 
-## Usage
+## Использование
 
-+ `vendor/bin/ecs check .` for checking
-+ `vendor/bin/ecs check . --fix` for fixing
++ `vendor/bin/ecs check .` для проверки
++ `vendor/bin/ecs check . --fix` для автоматического исправления
 
 ## Config
 
