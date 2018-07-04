@@ -1,6 +1,6 @@
 # PHP Code Style
 
-Мы используем [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) с набором правил от Symfony и некоторыми дополнительными.
+Мы используем [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) и набор правил [Symfony](https://github.com/Symplify/EasyCodingStandard/blob/master/config/symfony.yml) с некоторыми дополнениями.
 
 ## Установка
 
