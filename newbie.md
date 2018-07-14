@@ -1,6 +1,6 @@
 # Как начать работать и не сойти с ума
 
-1. Мы работаем через [GitРub flow](https://guides.github.com/introduction/flow/).
+1. Мы работаем через [GitHub flow](https://guides.github.com/introduction/flow/).
 2. Мы знаем, [что значит сделать](https://ksoftware.livejournal.com/202173.html).
 3. Мы не стесняемся задавать глупые вопросы.
 
