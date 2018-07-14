@@ -2,6 +2,7 @@
 
 1. Мы работаем через [GitРub flow](https://guides.github.com/introduction/flow/).
 2. Мы знаем, [что значит сделать](https://ksoftware.livejournal.com/202173.html).
+3. Мы не стесняемся задавать глупые вопросы.
 
 ## JS-разработчикам
 1. Если не чувствуете себя уверенно с JS, то почитайте [Современный учебник Javascript](https://learn.javascript.ru/).
