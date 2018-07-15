@@ -18,6 +18,7 @@
 ## Следуйте кодстайлу
 
 + PHP — [Symfony code-style с минимальным набором дополнительных правил](php.md).
++ JavaScript, NodeJS — [Solid Soda code-style](https://github.com/solid-soda/eslint-config).
 
 ## Напишите README
 
