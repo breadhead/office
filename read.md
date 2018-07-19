@@ -7,3 +7,6 @@
 ## Общие знания
 + 📚[Design Patterns](https://ru.wikipedia.org/wiki/Design_Patterns)
 + 📚Clean Code
++ The Clean Coder
++ Clean Architecture
++ The Pragmatic Programmer
