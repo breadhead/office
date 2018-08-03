@@ -14,3 +14,4 @@
 
 ## Soft Skills
 + Soft Skills: The Software Developer's Life Manual
++ Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior
