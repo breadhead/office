@@ -10,6 +10,7 @@
 + 🇷🇺📚The Clean Coder
 + 🇷🇺📚Clean Architecture
 + The Pragmatic Programmer
++ Code Complete
 
 ## Soft Skills
 + Soft Skills: The Software Developer's Life Manual
