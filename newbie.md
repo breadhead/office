@@ -9,4 +9,4 @@
 2. Если чувствуете себя уверенно с JS, то почитайте [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS]).
 3. Прочитайте документацию [React](https://reactjs.org/) и [Redux](https://redux.js.org/).
 4. Прочитайте документацию [Express](http://expressjs.com/).
-5. Мы любим статическую строгую типизацию — прочитайте [документацию TypeScript](https://www.typescriptlang.org/docs/home.html)
+5. Мы любим статическую строгую типизацию — прочитайте [документацию TypeScript](https://www.typescriptlang.org/docs/home.html).
