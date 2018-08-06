@@ -8,10 +8,13 @@
 + 🇷🇺📚[Design Patterns](https://ru.wikipedia.org/wiki/Design_Patterns)
 + 🇷🇺📚Clean Code
 + 🇷🇺📚The Clean Coder
-+ 🇷🇺📚Clean Architecture
 + The Pragmatic Programmer
 + Code Complete
 
+## Архитектура ПО
++ 🇷🇺📚Clean Architecture
++ 🇷🇺📚Domain-Driven Design: Tackling Complexity in the Heart of Software
+
 ## Soft Skills
-+ Soft Skills: The Software Developer's Life Manual
++ 🇷🇺📚Soft Skills: The Software Developer's Life Manual
 + Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior
