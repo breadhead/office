@@ -10,6 +10,7 @@
 + 🇷🇺📚The Clean Coder
 + The Pragmatic Programmer
 + Code Complete
++ Refactoring
 
 ## Архитектура ПО
 + 🇷🇺📚Clean Architecture
