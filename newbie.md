@@ -12,7 +12,7 @@
 2. Если чувствуете себя уверенно с JS, то почитайте [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS]).
 3. Прочитайте документацию [React](https://reactjs.org/) и [Redux](https://redux.js.org/).
 4. Прочитайте документацию [Express](http://expressjs.com/).
-5. Прочитайте [документацию TypeScript](https://www.typescriptlang.org/docs/home.html) (мы любим статическую строгую типизацию).
+5. Прочитайте документацию [TypeScript](https://www.typescriptlang.org/docs/home.html).
 
 ## PHP-разработчикам
 1. Прочитайте Modern PHP: New Features and Good Practices.
