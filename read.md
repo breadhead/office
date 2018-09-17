@@ -19,3 +19,7 @@
 ## Soft Skills
 + 🇷🇺📚Soft Skills: The Software Developer's Life Manual
 + Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior
+
+## Computer Science
++ 🇷🇺📚Grokking Algorithms: An illustrated guide for programmers and other curious people
++ 🇷🇺📚Computer Science Distilled: Learn the Art of Solving Computational Problems
