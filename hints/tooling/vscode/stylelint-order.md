@@ -1,35 +1,8 @@
 # Stylelint-order и VS code
 
-Для того, чтобы сортировать CSS-правила автоматически, мы используем stylelint-плагины [stylelint-order](https://github.com/hudochenkov/stylelint-order), [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) и задачи в VS code
+Для того, чтобы сортировать CSS-правила автоматически, мы используем [CSS-codestyle](../../../../code/css.md) и задачи в VS code
 
----
-## Задачи в VS code
-
-### package.json
-
-Добавляем скрипт для линтинга и исправления стилей
-
-```"lint:style": "stylelint './**/*.css' --fix"```
-
-```
-
-
-{
-  "name": "app",
-  "version": "1.0.0",
-  "scripts": {
-    ...
-    "lint:style": "stylelint './**/*.css' --fix",
-    ...
-  },
-  "dependencies": {
-   ...
-  },
-  "devDependencies": {
-    ...
-  }
-}
-```
+## Настройка
 
 ### vscode/tasks.json
 
@@ -62,6 +35,10 @@
     "command": "workbench.action.tasks.runTask",
     "args": "fix styles"
   }
-]```
+]
+```
 
-Теперь у нас есть возможность использовать комбинацию клавиш ```alt+s```, чтобы исправить порядок CSS-правил во всем проекте
+
+## Использование
+
+С помощью комбинации клавиш  ```alt+s``` исправляем порядок стилей во всем проекте
