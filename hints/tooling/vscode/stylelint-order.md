@@ -1,43 +1,9 @@
 # Stylelint-order и VS code
 
-Для того, чтобы сортировать CSS-правила автоматически, мы используем 
-
-1. [stylelint](https://github.com/stylelint/stylelint)
-2. [stylelint-order](https://github.com/hudochenkov/stylelint-order)
-3. [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order)
-4. Задачи в VS code
+Для того, чтобы сортировать CSS-правила автоматически, мы используем stylelint-плагины [stylelint-order](https://github.com/hudochenkov/stylelint-order), [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) и задачи в VS code
 
 ---
-1. stylelint
-
-```yarn add -D stylelint```
-
-2. stylelint-order
-
-```yarn add -D stylelint-order```
-
-### .stylelintrc
-```
-{
-  "plugins": ["stylelint-order"],
-
-}
-```
-
-3. stylelint-config-recess-order
-
-```yarn add -D stylelint-config-recess-order```
-
-### .stylelintrc
-```
-{
-  "extends": ["stylelint-config-recess-order"],
-  "plugins": ["stylelint-order"],
-
-}
-```
-
-4. Задачи в VS code
+## Задачи в VS code
 
 ### package.json
 

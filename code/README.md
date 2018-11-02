@@ -20,6 +20,7 @@
 + JavaScript, NodeJS — [Solid Soda code-style](https://github.com/solid-soda/eslint-config).
 + TypeScript, NodeJS — [Solid Soda code-style](https://github.com/solid-soda/tslint-config).
 + PHP — [Symfony code-style с минимальным набором дополнительных правил](php.md).
++ CSS — [stylelint конфиг](css.md)
 
 ## Пишите тесты
 
