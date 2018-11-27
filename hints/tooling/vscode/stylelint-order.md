@@ -1,6 +1,6 @@
 # Stylelint-order и VS code
 
-Для того, чтобы сортировать CSS-правила автоматически, мы используем [CSS-codestyle](../../../../code/css.md) и задачи в VS code
+Для того, чтобы сортировать CSS-правила автоматически, мы используем [CSS-codestyle](https://github.com/breadhead/office/blob/master/code/css.md) и задачи в VS code
 
 ## Настройка
 
