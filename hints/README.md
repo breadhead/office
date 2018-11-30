@@ -5,3 +5,4 @@
 + [PostCSS](./postcss)
 + [NestJS](./nestjs)
 + [тулинг](./tooling)
++ [установка peer-dependecies](./peer-dependecies)
